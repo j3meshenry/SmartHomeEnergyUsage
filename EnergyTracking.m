@@ -1,6 +1,4 @@
 %{
- 
-Class: CECS 271 
 
 Author: James Henry, Jordan Haveelar
 
